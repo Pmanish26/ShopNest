@@ -241,8 +241,3 @@ All endpoints require JWT in Authorization header or httpOnly cookie (except pub
 
 See [RAZORPAY_SETUP.md#troubleshooting](./RAZORPAY_SETUP.md#-troubleshooting) for detailed help.
 
----
-
-## 📄 License
-
-Educational/portfolio project.
