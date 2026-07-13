@@ -239,5 +239,3 @@ All endpoints require JWT in Authorization header or httpOnly cookie (except pub
 | Payment fails | Check `RAZORPAY_KEY_ID` and `RAZORPAY_KEY_SECRET` in `backend/.env` |
 | npm run seed fails | MongoDB must be running, check connection string |
 
-See [RAZORPAY_SETUP.md#troubleshooting](./RAZORPAY_SETUP.md#-troubleshooting) for detailed help.
-
